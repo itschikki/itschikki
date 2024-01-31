@@ -26,6 +26,6 @@ Explore more on [my GitHub repositories](https://github.com/itschikki).
 
 - 📧 Email: durgabachhawat@gmail.com
 - 💼 LinkedIn: [Durga Bachhawat](www.linkedin.com/in/durgaaaaa)
-- 📷 Instagram: [_durgaaaaa](https://www.instagram.com/_durgaaaaa/))
+- 📷 Instagram: [_durgaaaaa](https://www.instagram.com/_durgaaaaa/)
 
 Feel free to reach out and let's collaborate on something amazing! 🤝
