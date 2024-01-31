@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Hello, World!
 
-<!--
-**itschikki/itschikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)
 
-Here are some ideas to get you started:
+I'm Durga, a passionate Software Engineer based in Jodhpur. Welcome to my GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+- 🎓 Master's of Computer Applications
+- 💼 Student from MBM University
+- 🌐 [Resume]()
+
+## 🚀 My Tech Stack
+
+- 💻 JAVA
+- 🤖 Android
+
+## 🌟 Featured Projects
+
+1. [INFODECK](https://github.com/itsdyash/INFODECK)
+2. [JAVA PRACTICE]())
+
+Explore more on [my GitHub repositories](https://github.com/itschikki).
+
+## 📫 Let's Connect
+
+- 📧 Email: durgabachhawat@gmail.com
+- 💼 LinkedIn: [Durga Bachhawat](www.linkedin.com/in/durgaaaaa)
+- 📷 Instagram: [_durgaaaaa](https://www.instagram.com/_durgaaaaa/))
+
+Feel free to reach out and let's collaborate on something amazing! 🤝
