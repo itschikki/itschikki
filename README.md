@@ -18,7 +18,7 @@ I'm Durga, a passionate Software Engineer based in Jodhpur. Welcome to my GitHub
 ## 🌟 Featured Projects
 
 1. [INFODECK](https://github.com/itsdyash/INFODECK)
-2. [JAVA PRACTICE]())
+2. [JAVA PRACTICE]()
 
 Explore more on [my GitHub repositories](https://github.com/itschikki).
 
